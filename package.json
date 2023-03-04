@@ -1,0 +1,14 @@
+{
+  "name": "javascript_lessons",
+  "version": "1.0.0",
+  "description": "In this folder, there are working files that I have extracted for the Javascript programming language. Currently I'm continuing the course which is named \"The Complete JavaScript Course 2023: From Zero to Expert!\" of the trainer named \"Jonas Schmedtmann\" .\r .  Course is [here](https://www.udemy.com/course/the-complete-javascript-course/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
